@@ -4,4 +4,3 @@
 [submodule "recomp"]
 	path = recomp
 	url = https://github.com/LuC-iTA-GHorg/rapture-recomp.git
-	branch = flying
